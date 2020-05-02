@@ -2,7 +2,7 @@
 
 ## ES x SE = TEST
 
-[Problem](https://github.com/sundeepnarang/RandomMathProblems/blob/master/esxse%3Dtest.png)
+![Problem](https://github.com/sundeepnarang/RandomMathProblems/blob/master/esxse%3Dtest.png)
 
 If the same letter is used twice,
 it’s the same digit in both places,
@@ -22,7 +22,7 @@ What is the value of T?⁠
 
 ## Robot.py
 
-[Problem](https://github.com/sundeepnarang/RandomMathProblems/blob/master/robot.png)
+![Problem](https://github.com/sundeepnarang/RandomMathProblems/blob/master/robot.png)
 
 The robot starts on the center dot of the grid,
 makes four moves of one unit with each move in a
