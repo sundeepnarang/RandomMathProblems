@@ -19,6 +19,7 @@ What is the value of T?⁠
 - 6⁠
 - 7
 
+Source : https://brilliant.org/daily-problems/cryptogram-test
 
 ## Robot.py
 
@@ -36,3 +37,5 @@ Which region is most likely to contain the dot the robot stops on?⁠
 - The inner green square⁠
 - The blue V region⁠
 - The outer orange region⁠
+
+Source : https://brilliant.org/daily-problems/random-robot-2
