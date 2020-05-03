@@ -39,3 +39,22 @@ Which region is most likely to contain the dot the robot stops on?⁠
 - The outer orange region⁠
 
 Source : https://brilliant.org/daily-problems/random-robot-2
+
+
+## BAD ALA
+
+![Problem](https://github.com/sundeepnarang/RandomMathProblems/blob/master/BAD%20ALA.png)
+
+
+Each letter represents a different digit,
+and no number is written with a leading zero.⁠
+⁠
+What could the letter “O” represent?
+(choose one or more)⁠
+
+- 7⁠
+- 8⁠
+- 9⁠
+- 10⁠
+
+Source : https://brilliant.org/daily-problems/cryptogram-lol
